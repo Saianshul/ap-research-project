@@ -1,0 +1,3 @@
+Pygame: Using Pygame, make the Chrome T-Rex runner game.
+PyOpenGL: Using PyOpenGL, generate code that renders a rotating Rubik's Cube.
+Pyglet: Using Pyglet, make a simplified version of Space Invaders.
