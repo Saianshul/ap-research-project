@@ -1,1 +1,1 @@
-Using Scikit-image, generate code that applies image segmentation to an input image.
+Using Scikit-image, write a program that applies image segmentation to an input image.

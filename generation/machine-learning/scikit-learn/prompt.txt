@@ -1,1 +1,1 @@
-Using Scikit-learn, generate code that builds and trains a model for classifying emails as spam or not spam on the Spambase dataset.
+Using Scikit-learn, write a program that builds, trains, and evaluates a model that can classify emails as spam or not spam. Use the Spambase dataset for training and evaluation.

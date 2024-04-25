@@ -1,1 +1,1 @@
-Using Pillow, generate code that traces edges of high color contrast.
+Using Pillow, write a program that traces edges of high color contrast of an input image.

@@ -1,1 +1,1 @@
-Using Seaborn, create a pair plot and a heatmap with legends and regression lines (if applicable) for a dataset of student exam scores where these scores are differentiated by color based on if they are passing or failing.
+Using Seaborn, write a program that creates a pair plot and a heatmap with legends and regression lines (if applicable) for a dataset of student exam scores where these scores are differentiated by color based on if they are passing or failing.

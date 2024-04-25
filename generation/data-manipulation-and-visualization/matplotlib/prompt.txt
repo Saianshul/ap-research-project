@@ -1,1 +1,1 @@
-Using Matplotlib, generate code that creates an interactive graph where additional information is displayed when hovering over specific elements of the graph.
+Using Matplotlib, write a program that creates an interactive graph where additional information is displayed when hovering over specific elements of the graph.

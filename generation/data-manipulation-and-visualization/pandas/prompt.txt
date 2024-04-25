@@ -1,1 +1,1 @@
-Using Pandas, generate code that cleans up a messy dataset.
+Using Pandas, write a program that cleans up a messy dataset.

@@ -1,1 +1,1 @@
-Using Selenium, generate code that adds an item to the cart on Amazon and proceeds to checkout.
+Using Selenium, write a program that automates the process of logging in to Amazon, adding an item to the cart, and proceeding to checkout.

@@ -1,1 +1,1 @@
-Using TensorFlow, generate code that builds and trains a neural network for image classification on the MNIST dataset.
+Using TensorFlow, write a program that builds, trains, and evaluates a model that can classify handwritten digits. Use the MNIST dataset for training and evaluation.

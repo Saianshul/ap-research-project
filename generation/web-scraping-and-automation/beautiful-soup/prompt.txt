@@ -1,1 +1,1 @@
-Using Beautiful Soup, generate code that extracts headlines, authors, publish dates, article content, and images (if available) from the New York Times website.
+Using Beautiful Soup, write a program that extracts the headline, author(s), publish date, article content, and image(s) (if available) from a New York Times news article.
