@@ -1,0 +1,1 @@
+Using Scikit-image, generate code that applies image segmentation to an input image.

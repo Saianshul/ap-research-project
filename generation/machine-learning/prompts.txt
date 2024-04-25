@@ -1,3 +1,0 @@
-Tensorflow: Using TensorFlow, generate code that builds and trains a neural network for image classification on the MNIST dataset.
-PyTorch: Using PyTorch, generate code that builds and trains a model for predicting house prices on the Kaggle House Price dataset.
-Scikit-learn: Using Scikit-learn, generate code that builds and trains a model for classifying emails as spam or not spam on the Spambase dataset.

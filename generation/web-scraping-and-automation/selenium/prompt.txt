@@ -1,0 +1,1 @@
+Using Selenium, generate code that adds an item to the cart on Amazon and proceeds to checkout.

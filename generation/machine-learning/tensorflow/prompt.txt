@@ -1,0 +1,1 @@
+Using TensorFlow, generate code that builds and trains a neural network for image classification on the MNIST dataset.

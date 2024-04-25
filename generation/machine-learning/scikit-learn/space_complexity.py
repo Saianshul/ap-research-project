@@ -1,7 +1,8 @@
 from memory_profiler import profile
 
-@profile
-def something():
-    print('hello')
 
-something()
+@profile
+def scikit_learn():
+
+
+scikit_learn()

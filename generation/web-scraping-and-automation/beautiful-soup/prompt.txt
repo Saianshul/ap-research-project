@@ -1,0 +1,1 @@
+Using Beautiful Soup, generate code that extracts headlines, authors, publish dates, article content, and images (if available) from the New York Times website.

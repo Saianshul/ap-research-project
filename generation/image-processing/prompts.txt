@@ -1,3 +1,0 @@
-OpenCV: Using OpenCV, generate code that draws a box around detected faces in a webcam video.
-Pillow: Using Pillow, generate code that traces edges of high color contrast.
-Scikit-image: Using Scikit-image, generate code that applies image segmentation to an input image.
